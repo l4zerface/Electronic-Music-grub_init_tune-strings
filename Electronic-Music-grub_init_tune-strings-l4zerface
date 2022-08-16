@@ -1,11 +1,11 @@
-#Kraftwerk - Trans Europe Express
-GRUB_INIT_TUNE="430 392 4 415 4 554 2 523 6 392 2 415 4 523 2 466 7"
+#Kraftwerk - Numbers
+GRUB_INIT_TUNE="225 783 1 587 2 494 1 660 3"
 
 #Kraftwerk - Autobahn
 GRUB_INIT_TUNE="400 880 10 587 5 659 5 349 10"
 
-#Kraftwerk - Numbers
-GRUB_INIT_TUNE="225 783 1 587 2 494 1 660 3"
+#Kraftwerk - Trans Europe Express
+GRUB_INIT_TUNE="430 392 4 415 4 554 2 523 6 392 2 415 4 523 2 466 7"
 
 #Jeff Mills - The Bells
 GRUB_INIT_TUNE="1200 698 2 0 2 830 2 880 4 0 2 830 3 0 2 698 2 0 2 830 2 880 4 0 2 830 3"
